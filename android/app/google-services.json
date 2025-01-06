@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "197699973316",
+    "project_id": "adhd-77c0f",
+    "storage_bucket": "adhd-77c0f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197699973316:android:3adf302c7e5619cffa5991",
+        "android_client_info": {
+          "package_name": "com.adhd.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAHdrODkZYk0VsQGuOueb7t4m9cy6Ib18"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
