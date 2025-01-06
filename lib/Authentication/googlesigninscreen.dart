@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:firebase_auth/firebase_auth.dart';
-import 'package:nn/authservice.dart';
+import 'package:nn/Authentication/authservice.dart';
 
 class GoogleSignInScreen extends StatefulWidget {
   @override
